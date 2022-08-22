@@ -6,6 +6,7 @@ contributors:
   - anastazir
   - KacperTKI
   - sou127
+  - SpirosArk
 ---
 
 ## Insertion Sort
